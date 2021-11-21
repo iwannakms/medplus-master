@@ -1,0 +1,8 @@
+-- CREATE TABLE IF NOT EXISTS patient(
+--     id INT PRIMARY KEY,
+--     firstname VARCHAR (50),
+--     lastname VARCHAR (50),
+--     age INT,
+--     start_of_treatment DATE,
+--     end_of_treatment DATE
+-- );
